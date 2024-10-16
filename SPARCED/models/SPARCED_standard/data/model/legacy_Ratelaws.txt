@@ -2437,3 +2437,68 @@ vPd86	Cytoplasm	9.622233E-06
 vPd87	Nucleus	4.145121E-06
 vPd88	Cytoplasm	2.218213E-06
 vPd89	Cytoplasm	5.754195E-06
+vTGF1   Cytoplasm   kTGF_1*(TGFb*TGFb_TGFR2_surface)    4.09E-02            
+vTGF2   Cytoplasm   kTGF_2*(TGFb*TGFb_TGFR2_surface)    82.583333           
+vTGF3   Cytoplasm   kTGF_3*(TGFb*TGFb_TGFR2_surface)    82.583333           
+vTGF4   Cytoplasm   kTGF_4*(TGFR2ac)    0.718475            
+vTGF5   Cytoplasm   kTGF_5*(TGFR2ac)    0.718475            
+vTGF6   Cytoplasm   kTGF_6*(TGFR2ac)    0.000355869         
+vTGF7   Cytoplasm   83.091262               
+vTGF8   Cytoplasm   kTGF_8*(TGFbac_TGFR1_TGFR2) 0.133764167         
+vTGF9   Cytoplasm   1.67E-05                
+vTGF10  Cytoplasm   0.000977591             
+vTGF11  Cytoplasm   0.012003307             
+vTGF12  Cytoplasm   0.000977591             
+vTGF13  Cytoplasm   1.67E-05                
+vTGF14  Cytoplasm   14.702778               
+vTGF15  Cytoplasm   kTGF_15*(TGFbinac_TGFR1_TGFR2)  1.47E-05            
+vTGF16  Cytoplasm   kTGF_16*(TGFbinac_TGFR1_TGFR2)  0.03266186          
+vTGF17  Cytoplasm   kTGF_17*(TGFbinac_TGFR1_TGFR2)  1.67E-05            
+vTGF18  Cytoplasm   0.003348678             
+vTGF19  Cytoplasm   0.010430083             
+vTGF20  Cytoplasm   kTGF_20*(TGFb_TGFR1_endo)   0.001897534         
+vTGF21  Cytoplasm   kTGF_21*(TGFb_TGFR2_endo)   0.002563562         
+vTGF22  Cytoplasm   kTGF_22*(TGFbac_TGFR1_TGFR2)    0.001799515         
+vTGF23  Cytoplasm   1.73E-05                
+vTGF24  Cytoplasm   0.012003307             
+vTGF25  Cytoplasm   kTGF_25*(TGFbac_TGFR1_TGFR2_endo*SMAD2_c)   1.1666666           
+vTGF26  Cytoplasm   80238.348               
+vTGF27  Cytoplasm   0.026793733             
+vTGF28  Nucleus 80238.348               
+vTGF29  Nucleus 0.026793733             
+vTGF30  Cytoplasm   kTGF_30*((pSMAD2_c)^3)  359825.356          
+vTGF31  Nucleus kTGF_31*((pSMAD2_n)^3)  359825.356          
+vTGF32  Nucleus kTGF_32*(pSMAD2_trimer_n)   0.000439568         
+vTGF33  Cytoplasm   kTGF_33*(pSMAD2_trimer_c)   0.000439568         
+vTGF34  Cytoplasm   kTGF_34*(SMAD2_c)   0.006192953         
+vTGF35  Nucleus kTGF_35*(SMAD2_n)   0.033311659         
+vTGF36  Cytoplasm   kTGF_36*(SMAD4_c)   0.000618142         
+vTGF37  Nucleus kTGF_37*(SMAD4_n)   0.003280179         
+vTGF38  Cytoplasm   kTGF_38*(pSMAD2_c)  0.006181423         
+vTGF39  Nucleus kTGF_39*(pSMAD2_n)  0.033311659         
+vTGF40  Cytoplasm   kTGF_40*(pSMAD2_pSMAD2_SMAD4_c) 0.002400544         
+vTGF41  Cytoplasm   kTGF_41*(pSMAD2_trimer_c)   0.002400544         
+vTGF42  Nucleus 0.002323638             
+vTGF43  Nucleus kTGF_43*(pSMAD2_pSMAD2_SMAD4_n) 0.006064678         
+vTGF44  Cytoplasm   kTGF_44 6.49E-06            
+vTGF45  Cytoplasm   kTGF_45 4.36E-05            
+vTGF46  Cytoplasm   kTGF_46 1.83E-05            
+vTGF47  Cytoplasm   kTGF_47 4.68E-07            
+vTGF48  Nucleus kTGF_48_1 + ((kTGF_48_2 * pSMAD2_pSMAD2_SMAD4_n^kTGF_48_3) / (kTGF_48_4 + pSMAD2_pSMAD2_SMAD4_n^kTGF_48_3)) 2.18E-07    8.33169E-05 3.98    0.00257113
+vTGF49  Nucleus kTGF_49*(SMAD7_mRNA1)   0.000507285         
+vTGF50  Cytoplasm   kTGF_50*(SMAD7_mRNA)    0.00363783          
+vTGF51  Cytoplasm   8.57E-06                
+vTGF52  Nucleus 8.57E-06                
+vTGF53  Nucleus 8.57E-06                
+vTGF54  Cytoplasm   8.57E-06                
+vTGF55  Cytoplasm   8.00E-05                
+vTGF56  Nucleus 8.00E-05                
+vTGF57  Cytoplasm   8.57E-06                
+vTGF58  Cytoplasm   8.00E-05                
+vTGF59  Cytoplasm   8.57E-06                
+vTGF60  Nucleus 8.57E-06                
+vTGF61  Nucleus 8.00E-05                
+vTGF62  Nucleus 8.57E-06                
+vTGF63  Nucleus 8.70E-05                
+vTGF64  Cytoplasm   0.001650259             
+vTGF65  Cytoplasm   1.70E-05                
